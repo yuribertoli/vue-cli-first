@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="jumbotron">
-      ciao sono un jumbotron
+      <span>ciao sono un jumbotron</span>
     </div>
   </div>
 </template>
@@ -20,6 +20,11 @@ export default {
   border: 1px solid black;
   width: 80%;
   margin: 0 auto;
+  display: flex;
+}
+
+span {
+  margin: auto;
 }
 
 </style>
