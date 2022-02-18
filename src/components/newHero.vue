@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="jumbotron">
-
+      ciao sono un jumbotron
     </div>
   </div>
 </template>
